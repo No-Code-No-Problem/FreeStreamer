@@ -8,7 +8,7 @@
 
 #import "FSAudioStream.h"
 
-#import "Reachability.h"
+#import <Reachability/Reachability.h>
 
 #include "audio_stream.h"
 #include "stream_configuration.h"
